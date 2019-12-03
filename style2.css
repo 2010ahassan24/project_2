@@ -1,0 +1,96 @@
+body {
+    background-image: url(background.jpg);
+    color: black;
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.mygrey {
+    background-color: aquamarine;
+
+}
+
+
+
+.card {
+
+    background-color: blue;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+
+
+
+}
+
+.card img {
+    height: 15vw;
+
+
+}
+
+.navbar-brand img {
+    height: 4vw;
+
+
+
+
+}
+
+
+iframe {
+    padding-top: 100px;
+    width: 100%;
+
+}
+
+.container {
+    background-color: white;
+    width: 80%;
+}
+
+
+
+
+
+
+
+
+
+h1 {
+    text-align: center;
+    padding: 3%;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+
+
+.nav-link {
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 120%;
+
+
+
+}
+
+.z1 {
+    padding-top: 10%;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 110%;
+
+
+}
+
+.footer {
+    background-color: aquamarine;
+    text-align: center;
+
+
+}
